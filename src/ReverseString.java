@@ -1,4 +1,4 @@
-//for all programs.
+//for all programs
 public class ReverseString {
     public static void main(String[] args){
         reverseString();
