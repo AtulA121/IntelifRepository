@@ -2,6 +2,7 @@
 public class ReverseString {
     public static void main(String[] args){
         reverseString();
+        TrianglePattern.printPattern();
     }
     public static void reverseString(){
         String str="atul pisal";
