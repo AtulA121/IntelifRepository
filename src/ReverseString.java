@@ -1,5 +1,8 @@
 public class ReverseString {
     public static void main(String[] args){
+        reverseString();
+    }
+    public static void reverseString(){
         String str="atul pisal";
         StringBuilder newStr= new StringBuilder();
         int temp=str.length()-1;
