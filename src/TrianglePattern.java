@@ -1,3 +1,4 @@
+//pattern
 public class TrianglePattern {
     public static void printPattern(){
         int n=4;
@@ -10,7 +11,7 @@ public class TrianglePattern {
                 System.out.print("*");
             }
             temp=temp+2;
-            System.out.println("");
+            System.out.println();
         }
     }
 }
